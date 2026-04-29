@@ -1,6 +1,6 @@
 # MyAntiCheat 🛡️
 
-src/main/java/me/yourname/anticheat/
+Создатель - Проект MirWorld
 
 ## Функції
 - **Reach Check**: Блокує удари далі ніж 3.8 блоки.
