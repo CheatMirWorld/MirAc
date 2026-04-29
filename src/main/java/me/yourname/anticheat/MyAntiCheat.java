@@ -17,6 +17,7 @@ public class MyAntiCheat extends JavaPlugin {
     public void onEnable() {
         PacketEvents.getAPI().init();
         // Регистрация нашего слушателя проверок
+        getServer().getPluginManager().registerEvents(new FlyCheck(), this);
         PacketEvents.getAPI().getEventManager().registerListener(new ReachCheck());
         getLogger().info("MyAntiCheat успешно запущен!");
     }
