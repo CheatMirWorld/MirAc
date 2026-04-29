@@ -1,6 +1,6 @@
 # MyAntiCheat 🛡️
 
-Простий античит для Minecraft (Spigot/Paper 1.20.1), написаний на Java з використанням PacketEvents.
+src/main/java/me/yourname/anticheat/
 
 ## Функції
 - **Reach Check**: Блокує удари далі ніж 3.8 блоки.
